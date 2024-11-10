@@ -15,7 +15,7 @@ The following libraries are required:
 
 ## Folders and Files**
 
-* `src/`: The source code directory, containing main.py and other Python
+* `<repository_name>/`: The source code directory, containing main.py and other Python
 files.
 * `tests/`: The test directory, containing test_main.py and other test
 files.
